@@ -444,7 +444,7 @@ button.mini-title:hover {
 }
 
 .mini-day.other {
-  color: var(--text-3);
+  color: var(--text-2);
 }
 
 .mini-day.today {
@@ -1012,7 +1012,7 @@ button.mini-title:hover {
 }
 
 .card-calendar {
-  color: var(--text-3);
+  color: var(--text-2);
 }
 
 .tag-err {
